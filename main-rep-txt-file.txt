@@ -9,3 +9,5 @@
 Какая-то запись перед 1 push
 
 Новая запись для pull
+
+git pull origin master
